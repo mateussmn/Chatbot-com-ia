@@ -1,0 +1,6 @@
+# Ignora o arquivo que contém as suas chaves de API reais
+.env
+
+# Se você usar arquivos específicos de configuração locais (ex: config.json ou keys.js)
+config.js
+keys.json
